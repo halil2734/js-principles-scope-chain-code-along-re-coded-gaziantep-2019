@@ -2,7 +2,9 @@ var customerName = 'bob';
 function upperCaseCustomerName(){
   customerName =customerName.toUpperCase();
 }
-function 
+function setBestCustomer(){
+  
+}
 
 
 /*const expect = chai.expect;
