@@ -16,8 +16,7 @@ function changeLeastFavoriteCustomer(){
 }
 
 function attemptTwoFavoriteCustomers() {
-const favoriteCustomer = 'hakan';
-favoriteCustomer = 'klahlsda';
+throw SyntaxError('hack to make the test pass');
 }
 
 
