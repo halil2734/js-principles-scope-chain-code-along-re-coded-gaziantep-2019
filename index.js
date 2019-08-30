@@ -9,7 +9,8 @@ function overWriteBestCustomer(){
   bestCustomer = 'maybe bob';
 }
 
-const leastFavoriteCustomer = 'some'
+const leastFavoriteCustomer = 'some initial value';
+
 
 
 /*const expect = chai.expect;
