@@ -1,4 +1,5 @@
-customerName
+let customerName = 'bob';
+
 
 /*const expect = chai.expect;
 describe('Fix the Scope', function() {
