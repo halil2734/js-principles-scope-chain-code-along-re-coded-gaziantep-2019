@@ -13,6 +13,7 @@ const leastFavoriteCustomer = 'some initial value';
 
 function attemptTwoFavoriteCustomers() {
   favoriteCustomer = 'halil';
+  favoriteCustomer = 'hakan';
 }
 
 
