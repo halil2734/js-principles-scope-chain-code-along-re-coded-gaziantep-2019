@@ -17,9 +17,9 @@ function changeLeastFavoriteCustomer(){
 
 function attemptTwoFavoriteCustomers() {
 favoriteCustomer = 'hakan';
-
+favoriteCustomer = 'klahlsda;
 }
-let favoriteCustomer = 'klahlsda';
+
 
 
 /*const expect = chai.expect;
