@@ -1,7 +1,8 @@
 var customerName = 'bob';
 function upperCaseCustomerName(){
-  customerName = toUpperCase.customerName
+  customerName =customerName.toUpperCase();
 }
+function 
 
 
 /*const expect = chai.expect;
