@@ -10,6 +10,7 @@ function overWriteBestCustomer(){
 }
 
 
+
 /*const expect = chai.expect;
 describe('Fix the Scope', function() {
   describe('declare customerName to be bob in global scope', function() {
