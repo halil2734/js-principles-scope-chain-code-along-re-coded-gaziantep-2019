@@ -20,4 +20,3 @@ throw SyntaxError('hack to make the test pass');
 }
 
 
-
