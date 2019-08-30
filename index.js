@@ -1,4 +1,4 @@
-let customerName = 'bob';
+var customerName = 'bob';
 
 
 /*const expect = chai.expect;
